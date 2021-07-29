@@ -7,6 +7,10 @@ About Me
 - 🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant
 - ⚡ Fun fact: I love to Eat.
 - 👯 I’m looking to collaborate on any available project.
+- 🛠 Tech Stack
+- 🌐  HTML | CSS | JavaScript | Bootstrap
+- 🛢   MySQL | Firebase | Xampp
+- 🔧   Readux & React | Ruby on Rails
 - 💬 Ask me about anything.
 <p  align="center"> 📫 How to reach me:</p>
 <p align="center">
@@ -20,10 +24,7 @@ Project Have Worked on:
 - https://ademola101.github.io/Bootstrap-Milestone
 - https://ademola101.github.io/RWD-milestone-1
 - raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
-- 🛠 Tech Stack
-- 🌐  HTML | CSS | JavaScript | Bootstrap
-- 🛢   MySQL | Firebase | Xampp
-- 🔧   Readux & React | Ruby on Rails
+
 
 
 ![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=radical)
