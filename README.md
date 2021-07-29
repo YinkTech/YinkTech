@@ -1,10 +1,9 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 ### Hi there Am YinkTech👋
 
 ![YinkTech](https://user-images.githubusercontent.com/65237847/127533499-550eb976-4974-4b68-9c5e-378031787ab4.png)
 
 About Me
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 - 🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant
 - ⚡ Fun fact: I love to Eat.
 - 👯 I’m looking to collaborate on any available project.
