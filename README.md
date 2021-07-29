@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there Am YinkTech👋
 
-<!--
-**YinkTech/YinkTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![YinkTech](https://user-images.githubusercontent.com/65237847/127533499-550eb976-4974-4b68-9c5e-378031787ab4.png)
+raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently on Learning FullStack Web Development at SOI Education Consultant
+- 🌱 I’m currently learning all Languages to build a Website and Web Application.
+- ⚡ Fun fact: I love to Eat.
+- 👯 I’m looking to collaborate on any available project
+- 💬 Ask me about anything
+- 📫 How to reach me:
+<p align="center">
+  <a href="https://www.twitter.com/yinktech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="YinkTech"></a>
+   <a href="https://www.linkedin.com/in/ayeni-olayinka-726181134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="YinkTech"></a>
+  <a href="https://www.instagram.com/layinka4dat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="YinkTech"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project Have Worked on:
+https://yinktech.github.io/New-York-Times-Clone
+https://ademola101.github.io/Bootstrap-Milestone
+https://ademola101.github.io/RWD-milestone-1
+raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+🛠 Tech Stack
+🌐  HTML | CSS | JavaScript | Bootstrap
+🛢   MySQL | Firebase | Xampp
+🔧   Readux & React | Ruby on Rails
+
+
+![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
+
+
+
+
