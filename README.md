@@ -1,7 +1,7 @@
 ### Hi there Am YinkTech👋
 
 ![YinkTech](https://user-images.githubusercontent.com/65237847/127533499-550eb976-4974-4b68-9c5e-378031787ab4.png)
-raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+
 About Me
 
 - 🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant
@@ -16,14 +16,14 @@ About Me
 </p>
 
 Project Have Worked on:
-https://yinktech.github.io/New-York-Times-Clone
-https://ademola101.github.io/Bootstrap-Milestone
-https://ademola101.github.io/RWD-milestone-1
-raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
-🛠 Tech Stack
-🌐  HTML | CSS | JavaScript | Bootstrap
-🛢   MySQL | Firebase | Xampp
-🔧   Readux & React | Ruby on Rails
+- https://yinktech.github.io/New-York-Times-Clone
+- https://ademola101.github.io/Bootstrap-Milestone
+- https://ademola101.github.io/RWD-milestone-1
+- raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+- 🛠 Tech Stack
+- 🌐  HTML | CSS | JavaScript | Bootstrap
+- 🛢   MySQL | Firebase | Xampp
+- 🔧   Readux & React | Ruby on Rails
 
 
 ![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=radical)
@@ -31,7 +31,7 @@ raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
-
-
-
+<p align="center">
+![YinkTech](raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+</p>
 
