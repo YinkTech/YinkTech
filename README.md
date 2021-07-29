@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 ### Hi there Am YinkTech👋
 
 ![YinkTech](https://user-images.githubusercontent.com/65237847/127533499-550eb976-4974-4b68-9c5e-378031787ab4.png)
@@ -31,7 +32,5 @@ Project Have Worked on:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
-<p align="center">
-<img src="raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="YinkTech">
-</p>
+
 
