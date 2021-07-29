@@ -4,12 +4,11 @@
 raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 About Me
 
-- 🔭 I’m currently on Learning FullStack Web Development at SOI Education Consultant
-- 🌱 I’m currently learning all Languages to build a Website and Web Application.
+- 🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant
 - ⚡ Fun fact: I love to Eat.
-- 👯 I’m looking to collaborate on any available project
-- 💬 Ask me about anything
-- 📫 How to reach me:
+- 👯 I’m looking to collaborate on any available project.
+- 💬 Ask me about anything.
+<p  align="center"> 📫 How to reach me:</p>
 <p align="center">
   <a href="https://www.twitter.com/yinktech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="YinkTech"></a>
    <a href="https://www.linkedin.com/in/ayeni-olayinka-726181134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="YinkTech"></a>
