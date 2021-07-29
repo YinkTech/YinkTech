@@ -20,10 +20,9 @@ About Me
 </p>
 
 Project Have Worked on:
-- https://yinktech.github.io/New-York-Times-Clone
-- https://ademola101.github.io/Bootstrap-Milestone
-- https://ademola101.github.io/RWD-milestone-1
-- raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+- <a href="https://yinktech.github.io/New-York-Times-Clone"> The New York TImes Clone </a>
+- <a href="https://ademola101.github.io/Bootstrap-Milestone"> The New Magazine Landing Page  </a>
+- <a href="https://ademola101.github.io/RWD-milestone-1"> Rwd Landing Page </a>
 
 
 
