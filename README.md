@@ -32,6 +32,6 @@ Project Have Worked on:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
 <p align="center">
-![YinkTech](raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+<img src="raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="YinkTech">
 </p>
 
