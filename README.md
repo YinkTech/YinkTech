@@ -4,10 +4,10 @@
 
 ## About Me..
 
-## Currently learning:
+## Currently:
 <ul>
-  <li>🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant </li>
-  <li>⚡ Fun fact: I love to Eat.</li>
+  <li>🔭 I’m Learning FullStack Web Development at SOI Education Consultant </li>
+  <li>⚡ Fun fact: I love to Eat and listen to Music.</li>
   <li> 👯 I’m looking to collaborate on any available project.</li>
   <li>🛠 Tech Stack</li>
   <li> 🌐  HTML | CSS | JavaScript | Bootstrap </li>
