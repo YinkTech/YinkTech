@@ -1,12 +1,12 @@
 ### Hi there Am YinkTech👋
 
 <img width="1100" height="auto" src="https://user-images.githubusercontent.com/65237847/127533499-550eb976-4974-4b68-9c5e-378031787ab4.png">
-About Me
-- 🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant
-- ⚡ Fun fact: I love to Eat.
-- 👯 I’m looking to collaborate on any available project.
-- 🛠 Tech Stack
-- 🌐  HTML | CSS | JavaScript | Bootstrap
+## About Me
+## - 🔭 I’m currently Learning FullStack Web Development at SOI Education Consultant
+## - ⚡ Fun fact: I love to Eat.
+## - 👯 I’m looking to collaborate on any available project.
+## - 🛠 Tech Stack
+## - 🌐  HTML | CSS | JavaScript | Bootstrap
 - 🛢   MySQL | Firebase | Xampp
 - 🔧   Readux & React | Ruby on Rails
 - 💬 Ask me about anything.
