@@ -32,6 +32,8 @@ Project Have Worked on:
 
 ![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=radical)
 
+![YinkTech's GitHub 3d model](https://skyline.github.com/YinkTech/2022)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
