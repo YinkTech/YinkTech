@@ -24,9 +24,9 @@
 </p>
 
 Project Have Worked on:
-- <a href="https://yinktech.github.io/New-York-Times-Clone"> The New York TImes Clone </a>
-- <a href="https://ademola101.github.io/Bootstrap-Milestone"> The News Week Magazine Landing Page  </a>
-- <a href="https://ademola101.github.io/RWD-milestone-1"> TNW Landing Page </a>
+- <a href="https://home-heart.netlify.app/"> Home Heart App </a>
+- <a href="https://yinktech.github.io/Stock-Market"> Stock Market  </a>
+- <a href="https://yinktech.github.io/Coins-Marketplace/"> Coins Marketplace </a>
 
 
 
