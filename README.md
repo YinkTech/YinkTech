@@ -3,9 +3,10 @@
 <img width="1100" height="300px" src="https://user-images.githubusercontent.com/65237847/220593885-69f32e3c-6d88-4a43-ae03-cf7009f90ffe.jpg">
 
 ## About Me..
-- Good tidings, I'm Olayinka. I'm a Full Stack Developer living in Ibadan, Nigeria. I really love innovation, web advancement, and development. I'm likewise intrigued by business ventures and programming.
+<p> Good tidings, I'm Olayinka. I'm a Full Stack Developer living in Ibadan, Nigeria. I really love innovation, web advancement, and development. I'm likewise intrigued by business ventures and programming.
 Tech Stacks include Ruby, Ruby on Rails, Javascript, React.js, Redux.js, and MySQL.
 I'm available to work open doors that give individual and specialized development, mentorship, and new opportunities for growth.
+</p>
 
 ## Currently:
 <ul>
