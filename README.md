@@ -1,7 +1,6 @@
 ### Hi there Am YinkTech👋
 
-
-![banner](https://user-images.githubusercontent.com/65237847/220593885-69f32e3c-6d88-4a43-ae03-cf7009f90ffe.jpg)
+<img width="1100" height="auto" src="https://user-images.githubusercontent.com/65237847/220593885-69f32e3c-6d88-4a43-ae03-cf7009f90ffe.jpg">
 
 ## About Me..
 
