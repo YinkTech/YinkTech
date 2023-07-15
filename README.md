@@ -23,7 +23,7 @@
 Project Have Worked on:
 - <a href="https://home-heart.netlify.app/"> Home Heart App </a>
 - <a href="https://yinktech.github.io/Stock-Market"> Stock Market  </a>
-- <a href="[https://yinktech.github.io/Stock-Market](https://yinktech.github.io/web3-project/)"> Web3 App  </a>
+- <a href="https://yinktech.github.io/web3-project/"> Web3 App  </a>
 - <a href="https://yinktech.github.io/Coins-Marketplace/"> Coins Marketplace </a>
 
 
