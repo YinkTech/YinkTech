@@ -1,25 +1,6 @@
 ### Hi there Am YinkTech👋
 
 <img width="1100" height="300px" src="https://user-images.githubusercontent.com/65237847/220593885-69f32e3c-6d88-4a43-ae03-cf7009f90ffe.jpg">
-
-## About Me..
-<p> Good tidings, I'm Olayinka. I'm a Full Stack Developer living in Ibadan, Nigeria. I really love innovation, web advancement, and development. I'm likewise intrigued by business ventures and programming.
-Tech Stacks include Ruby, Ruby on Rails, Javascript, React.js, Redux.js, and MySQL.
-I'm available to work open doors that give individual and specialized development, mentorship, and new opportunities for growth.
-</p>
-
-## Currently:
-<ul>
-  <li>🔭 I’m Learning FullStack Web Development at SOI Education Consultant </li>
-  <li>⚡ Fun fact: I love to Eat and listen to Music.</li>
-  <li> 👯 I’m looking to collaborate on any available project.</li>
-  <li>🛠 Tech Stack</li>
-  <li> 🌐  HTML | CSS | JavaScript | Bootstrap </li>
-  <li>🛢   MySQL | Firebase | Xampp </li>
-  <li>🔧   Readux & React | Ruby on Rails </li>
-  <li>💬 Ask me about anything.</li>
-</ul>
-
 <p  align="center"> 📫 How to reach me:</p>
 <p align="center">
   <a href="https://www.twitter.com/yinktech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="YinkTech"></a>
@@ -27,9 +8,22 @@ I'm available to work open doors that give individual and specialized developmen
   <a href="https://www.instagram.com/layinka4dat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="YinkTech"/></a>
 </p>
 
+## Currently:
+<ul>
+  <li> 🔭 I’m Learning FullStack Web Development at SOI Education Consultant </li>
+  <li> 👯 I’m open to work.</li>
+  <li> 🛠 Tech Stack </li>
+  <li> 🌐 HTML | CSS | JavaScript | Bootstrap </li>
+  <li> 🛢 MySQL | Firebase | Xampp </li>
+  <li> 🔧 Readux & React | Ruby on Rails </li>
+  <li> ⚡ Fun fact: I love to Eat and listen to Music.</li>
+  <li> 💬 Ask me about anything.</li>
+</ul>
+
 Project Have Worked on:
 - <a href="https://home-heart.netlify.app/"> Home Heart App </a>
 - <a href="https://yinktech.github.io/Stock-Market"> Stock Market  </a>
+- <a href="[https://yinktech.github.io/Stock-Market](https://yinktech.github.io/web3-project/)"> Web3 App  </a>
 - <a href="https://yinktech.github.io/Coins-Marketplace/"> Coins Marketplace </a>
 
 
