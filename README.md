@@ -1,6 +1,6 @@
 ### Hi there Am YinkTech👋
 
-<img width="1100" height="300px" src="https://user-images.githubusercontent.com/65237847/220593885-69f32e3c-6d88-4a43-ae03-cf7009f90ffe.jpg">
+<img width="1100" height="300px" src="https://github.com/YinkTech/YinkTech/assets/65237847/66ea78df-7187-400a-ac0c-16ed4622a99f">
 <p  align="center"> 📫 How to reach me:</p>
 <p align="center">
   <a href="https://www.twitter.com/yinktech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="YinkTech"></a>
