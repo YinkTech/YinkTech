@@ -21,6 +21,7 @@
 </ul>
 
 Project Have Worked on:
+- <a href="https://yinka-portfolio.vercel.app/"> My Portfolio </a>
 - <a href="https://home-heart.netlify.app/"> Home Heart App </a>
 - <a href="https://yinktech.github.io/Stock-Market"> Stock Market  </a>
 - <a href="https://yinktech.github.io/web3-project/"> Web3 App  </a>
