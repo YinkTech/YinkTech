@@ -36,4 +36,4 @@ Project Have Worked on:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yinktech)](https://github.com/ryo-ma/github-profile-trophy)
