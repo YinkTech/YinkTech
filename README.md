@@ -27,11 +27,37 @@ Project Have Worked on:
 - <a href="https://yinktech.github.io/web3-project/"> Web3 App  </a>
 - <a href="https://yinktech.github.io/Coins-Marketplace/"> Coins Marketplace </a>
 
+<p align="center">
+  ![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=cobalt)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+<p align="center">
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdshah6593&layout=compact&theme=radical) -->
+
+</p>
+
+<br>
+<p align="center"> 
+
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> 
+
+</p>
 
 
-![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
 
