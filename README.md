@@ -3,13 +3,13 @@
 ![Header Image](https://github.com/YinkTech/YinkTech/assets/65237847/d97be908-3e86-4eee-b160-e5a48faa973f)
 
 
-<p>
+<h6 align="left">
 I'm Olayinka, a proficient Frontend web developer with a deep-seated passion for creating user-friendly interfaces that enhance people's online experiences. My expertise spans a broad range of Frontend technologies, including JavaScript, ReactJS, ReduxJS, NextJS, HTML5, and CSS3.
 <br>
 Beyond coding, I'm skilled in a variety of tools and technologies such as Git, GitHub, Heroku, Vercel, Netlify, Rspec, TDD, and Dev Tools. I thrive in remote work environments and place a strong emphasis on collaboration and teamwork. Committed to continuous growth and excellence in my profession, I'm always seeking opportunities to learn and improve.
 <br>
 My primary career goal is to contribute to a company where I can apply my knowledge and skills to develop software products and services that positively impact people's lives. 😊
-</p>
+</h6>
 
 <p align="center"> 📫 How to reach me:</p>
 <p align="center">
@@ -28,6 +28,21 @@ My primary career goal is to contribute to a company where I can apply my knowle
   <a href="https://yinka-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge" alt="portfolio">
   </a>
+</p>
+
+## Tech Stack:
+<p align="center"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> 
 </p>
 
 ## About Me:
@@ -55,21 +70,6 @@ My primary career goal is to contribute to a company where I can apply my knowle
   <img src="https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=cobalt" style="margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact&theme=cobalt">
 </div>
-
-## Tech Stack:
-<p align="center"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> 
-</p>
 
 ## GitHub Streak:
 <p align="center">
