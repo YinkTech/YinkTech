@@ -27,14 +27,10 @@ Project Have Worked on:
 - <a href="https://yinktech.github.io/web3-project/"> Web3 App  </a>
 - <a href="https://yinktech.github.io/Coins-Marketplace/"> Coins Marketplace </a>
 
-<p align="center">
-  ![YinkTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=cobalt)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 <p align="center">
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdshah6593&layout=compact&theme=radical) -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YinkTech&show_icons=true&theme=cobalt">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinkTech&layout=compact&theme=cobalt">
 </p>
 
 <br>
@@ -59,7 +55,15 @@ Project Have Worked on:
 
 
 
+<p align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YinkTech&theme=dark)](https://git.io/streak-stats)
 
+</p>
+<br>
 
+<p align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=yinktech)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
