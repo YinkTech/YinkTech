@@ -2,6 +2,16 @@
 
 ![Header Image](https://github.com/YinkTech/YinkTech/assets/65237847/d97be908-3e86-4eee-b160-e5a48faa973f)
 
+
+<h6 align="center">
+Hello! I'm Olayinka, a proficient Frontend web developer with a deep-seated passion for creating user-friendly interfaces that enhance people's online experiences. My expertise spans a broad range of Frontend technologies, including JavaScript, ReactJS, ReduxJS, NextJS, HTML5, and CSS3.
+<br />
+Beyond coding, I'm skilled in a variety of tools and technologies such as Git, GitHub, Heroku, Vercel, Netlify, Rspec, TDD, and Dev Tools. I thrive in remote work environments and place a strong emphasis on collaboration and teamwork. Committed to continuous growth and excellence in my profession, I'm always seeking opportunities to learn and improve.
+<br />
+My primary career goal is to contribute to a company where I can apply my knowledge and skills to develop software products and services that positively impact people's lives. 😊
+  
+</h6>
+
 <p align="center"> 📫 How to reach me:</p>
 <p align="center">
   <a href="https://www.twitter.com/yinkabayeni" target="_blank">
@@ -20,13 +30,7 @@
     <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge" alt="portfolio">
   </a>
 </p>
-<h4 align="center">
-Hello! I'm Olayinka, a proficient Frontend web developer with a deep-seated passion for creating user-friendly interfaces that enhance people's online experiences. My expertise spans a broad range of Frontend technologies, including JavaScript, ReactJS, ReduxJS, NextJS, HTML5, and CSS3.
-<br />
-Beyond coding, I'm skilled in a variety of tools and technologies such as Git, GitHub, Heroku, Vercel, Netlify, Rspec, TDD, and Dev Tools. I thrive in remote work environments and place a strong emphasis on collaboration and teamwork. Committed to continuous growth and excellence in my profession, I'm always seeking opportunities to learn and improve.
-<br />
-My primary career goal is to contribute to a company where I can apply my knowledge and skills to develop software products and services that positively impact people's lives. 😊
-</h4>
+
 ## About Me:
 - 🔭 Frontend Developer | FullStack Web Development at SOI Education Consultant
 - 👯 Open to work.
